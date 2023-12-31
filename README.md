@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **- front env dev (HTML, CSS, JS), tensorflow**
 
-- 👨‍💻 contact web [https://a5hx.github.io](https://a5hx.github.io)
+- 👨‍💻 contact web [ashwxn.me](https://ashwxn.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
